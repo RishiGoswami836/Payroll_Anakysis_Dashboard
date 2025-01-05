@@ -251,6 +251,6 @@ The data in the **`payroll_data_dashboard`** index was visualized using Kibana.
 
 # Dashboard Analysis
 
-![Docker_Flink]([https://github.com/user-attachments/assets/12c2099b-31aa-4b02-b07f-e317c3fc5346](https://github.com/RishiGoswami836/Payroll_Analysis_Dashboard/blob/main/Dashboard.jpg))
+![Docker_Flink](https://github.com/RishiGoswami836/Payroll_Analysis_Dashboard/blob/main/Dashboard.jpg)
 
 ---
