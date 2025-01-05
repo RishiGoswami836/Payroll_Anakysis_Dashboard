@@ -188,6 +188,8 @@ LEFT JOIN payroll3 AS p3
     ON p1.employee_id = p3.employee_id;
  ```
 
+---
+
 ### **5. Data Insertion into Elasticsearch**  
 Before creating the Kibana dashboard, the enriched data was inserted into an Elasticsearch index.
 
@@ -240,6 +242,7 @@ SELECT
     arrival_ts
 FROM all_payroll_data;
  ```
+---
 
 ### **6. Dashboard Creation with Kibana**  
 The data in the **`payroll_data_dashboard`** index was visualized using Kibana.  
@@ -248,6 +251,6 @@ The data in the **`payroll_data_dashboard`** index was visualized using Kibana.
 
 # Dashboard Analysis
 
-![Docker_Flink](https://github.com/user-attachments/assets/12c2099b-31aa-4b02-b07f-e317c3fc5346)
+![Docker_Flink]([https://github.com/user-attachments/assets/12c2099b-31aa-4b02-b07f-e317c3fc5346](https://github.com/RishiGoswami836/Payroll_Analysis_Dashboard/blob/main/Dashboard.jpg))
 
 ---
