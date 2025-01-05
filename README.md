@@ -254,3 +254,9 @@ The data in the **`payroll_data_dashboard`** index was visualized using Kibana.
 ![Docker_Flink](https://github.com/RishiGoswami836/Payroll_Analysis_Dashboard/blob/main/Dashboard.jpg)
 
 ---
+
+### Video
+
+https://github.com/user-attachments/assets/238a5acd-f25d-4616-a41e-c73116bcd10e
+
+---
