@@ -260,3 +260,112 @@ The data in the **`payroll_data_dashboard`** index was visualized using Kibana.
 https://github.com/user-attachments/assets/39a37e30-b45d-44af-bf23-bbf5131a6ca2
 
 ---
+
+#### **1. Bonus Values by Arrival Time (Bar Chart)**
+- **Observation:** The average bonus varies across different arrival times, with noticeable peaks on specific dates.
+- **Insights:**
+  - Employees arriving at certain times tend to receive higher bonuses, potentially indicating a correlation between arrival time and performance or productivity.
+  - This trend can be used to adjust shift timings or optimize workforce allocation.
+
+---
+
+#### **2. Bonus Metrics (Summary Card)**
+
+- **Observation:**
+50th percentile bonus: 25
+Average bonus: 25.813
+Maximum bonus: 49
+- **Insights:**
+  - The distribution shows moderate variability, with most employees receiving bonuses close to the average.
+  - This indicates equitable bonus distribution, but outliers may warrant further investigation.
+
+---
+
+#### **3. Average Hourly Rate per Gender (Area Chart)**
+
+- **Observation:** Females have a higher average hourly rate compared to males.
+- **Insights:**
+  - This highlights a positive effort toward reducing gender wage gaps.
+  - Additional analysis could verify if job roles and responsibilities are evenly distributed across genders.
+
+ ---
+
+ #### **4. Average Hourly Rate (Gauge)**
+ 
+- **Observation:** The average hourly rate is 15.997.
+- **Insights:**
+  - This is a key metric for evaluating overall labor costs.
+  - A slight increase in the average rate may enhance employee retention and job satisfaction.
+ 
+----
+
+#### **5. Hourly Rate by Age (Bar Chart)**
+
+- **Observation:** Younger employees tend to have a lower hourly rate, while mid-aged employees dominate the higher hourly rate brackets.
+- **Insights:**
+  - This indicates experience plays a significant role in compensation.
+  - Training younger employees may bridge skill gaps and lead to equitable pay distribution over time.
+ 
+---
+
+#### **6. Department-wise Bonus (Line Chart)**
+
+- **Observation:** Bonuses fluctuate significantly across departments, with some departments receiving consistently higher bonuses.
+- **Insights:**
+  - Performance-based bonus allocation appears to be in practice.
+  - Underperforming departments could benefit from targeted support and resource optimization.
+
+---
+
+#### **7. Bonus by Top 10 First Names (Area Chart)**
+
+- **Observation:** Certain individuals (e.g., with names like "Adele" or "Byron") receive higher bonuses.
+- **Insights:**
+  - This may highlight high performers, suggesting they hold critical roles in the organization.
+  - Consider sharing their best practices with others to elevate overall performance.
+ 
+---
+
+#### **8. Age-wise Gender Count (Bar Chart)**
+
+- **Observation:** Gender representation is balanced across age groups, with slight variations.
+- **Insights:**
+  - This balance reflects a diverse workforce.
+  - Continuous monitoring can ensure inclusivity across age brackets and job roles.
+
+---
+
+#### **9. Average Age by Arrival Time (Line Chart)**
+
+- **Observation:** The average age of employees remains consistent over time, with slight fluctuations.
+- **Insights:**
+  - This suggests stable hiring practices with no sudden shifts in workforce demographics.
+  - Consistent age distribution ensures sustained knowledge transfer between younger and older employees.
+
+---
+
+#### **10. Average Age and Hourly Rate (Gauge)**
+
+- **Observation:**
+Average age: 40.169
+Average hourly rate: 15.997
+- **Insights:**
+  - Both metrics align with standard workforce benchmarks for industries with similar demographics.
+  - Further segmentation (e.g., by role or department) could uncover actionable insights.
+
+---
+
+### **Managerial Insights**
+
+1. **Employee Engagement:**
+    - Understand bonus distribution patterns and identify top-performing employees.
+    - Enhance engagement through targeted incentives.
+
+2. **Departmental Analysis:**
+    - Analyze lab and department performance based on arrival and bonus trends.
+
+3. **Resource Allocation:**
+    - Optimize workforce planning and resource allocation based on real-time insights.
+
+---
+
