@@ -257,6 +257,6 @@ The data in the **`payroll_data_dashboard`** index was visualized using Kibana.
 
 ### Video
 
-https://github.com/user-attachments/assets/238a5acd-f25d-4616-a41e-c73116bcd10e
+https://github.com/RishiGoswami836/Payroll_Analysis_Dashboard/issues/1#issue-2769367261
 
 ---
